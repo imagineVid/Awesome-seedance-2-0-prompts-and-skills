@@ -1,0 +1,15 @@
+{
+  "name": "awesome-seedance-2-0-prompts-and-skills",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Source-backed Seedance 2.0 prompts and production workflows curated by ImagineVid",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-readme.mjs",
+    "validate": "node scripts/validate-data.mjs",
+    "test": "npm run validate",
+    "typecheck": "node --check scripts/*.mjs",
+    "verify": "npm run generate && npm run validate && npm run typecheck"
+  },
+  "license": "CC-BY-4.0"
+}

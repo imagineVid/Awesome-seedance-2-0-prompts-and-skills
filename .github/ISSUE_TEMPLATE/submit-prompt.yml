@@ -1,0 +1,32 @@
+name: Submit a verified Seedance 2.0 prompt
+description: Propose a source-backed community case
+title: "[Prompt]: "
+labels: [prompt-submission]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Canonical source post
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Complete prompt
+    validations:
+      required: true
+  - type: input
+    id: media
+    attributes:
+      label: Inspectable result media
+    validations:
+      required: true
+  - type: checkboxes
+    id: evidence
+    attributes:
+      label: Evidence
+      options:
+        - label: The source explicitly identifies Seedance 2.0.
+          required: true
+        - label: I checked that this source is not already in the collection.
+          required: true

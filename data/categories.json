@@ -1,0 +1,37 @@
+[
+  {
+    "id": 101,
+    "title": "Multimodal Reference Direction",
+    "slug": "multimodal-reference-direction",
+    "parentSlug": "video-workflow-groups",
+    "sort": 1
+  },
+  {
+    "id": 102,
+    "title": "Long-Take Camera Choreography",
+    "slug": "long-take-camera-choreography",
+    "parentSlug": "video-workflow-groups",
+    "sort": 2
+  },
+  {
+    "id": 103,
+    "title": "Narrative Action & Performance",
+    "slug": "narrative-action-and-performance",
+    "parentSlug": "video-workflow-groups",
+    "sort": 3
+  },
+  {
+    "id": 104,
+    "title": "Commercial Storyboards",
+    "slug": "commercial-storyboards",
+    "parentSlug": "video-workflow-groups",
+    "sort": 4
+  },
+  {
+    "id": 105,
+    "title": "Worldbuilding & Environmental Motion",
+    "slug": "worldbuilding-and-environmental-motion",
+    "parentSlug": "video-workflow-groups",
+    "sort": 5
+  }
+]

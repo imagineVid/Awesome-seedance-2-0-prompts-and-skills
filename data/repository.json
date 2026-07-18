@@ -1,0 +1,26 @@
+{
+  "dir": "awesome-seedance-2-0-prompts-and-skills",
+  "repo": "Awesome-seedance-2-0-prompts-and-skills",
+  "model": "Seedance 2.0",
+  "kind": "video",
+  "product": "https://imaginevid.io/seedance-2-0",
+  "cover": "seedance-2-0-cover.png",
+  "intro": "Seedance 2.0 is ByteDance Seed's unified multimodal audio-video model for generation, reference-guided creation, and editing. Its strongest workflows assign explicit roles to image, video, and audio inputs, then direct camera movement, performance, continuity, and synchronized sound as one production brief.",
+  "capabilities": [
+    "Multimodal reference direction across image, video, and audio inputs",
+    "Joint visual and audio timing for dialogue, Foley, ambience, and music",
+    "Long-take camera paths, character performance, and scene continuity",
+    "Natural-language editing and controlled transformation of existing footage"
+  ],
+  "officialSources": [
+    "https://seed.bytedance.com/en/seedance2_0",
+    "https://seed.bytedance.com/blog/seedance-2-0-official-launch"
+  ],
+  "categories": [
+    "Multimodal Reference Direction",
+    "Long-Take Camera Choreography",
+    "Narrative Action & Performance",
+    "Commercial Storyboards",
+    "Worldbuilding & Environmental Motion"
+  ]
+}
