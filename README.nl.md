@@ -47,7 +47,7 @@ Seedance 2.0 is een model voor multimodale videogeneratie, referentiegestuurde p
 
 ## Geverifieerde communityvoorbeelden
 
-| Collectiestatus | 5 geverifieerde voorbeelden |
+| Collectiestatus | 10 geverifieerde voorbeelden |
 |---|---:|
 | Laatst gegenereerd | 2026-07-18 |
 
@@ -153,24 +153,24 @@ A dense weather-and-stunt brief that coordinates waves, debris, rescue action, a
 #### Prompt
 
 ```text
-New prompt drop - The lighthouse - 
-seedance 2.0 on @Hailuo_AI 
+New prompt drop - The lighthouse -
+seedance 2.0 on @Hailuo_AI
 
-Hyper-realistic cinematic action sequence, 15 seconds, aspect ratio 16:9.  Night. 
+Hyper-realistic cinematic action sequence, 15 seconds, aspect ratio 16:9.  Night.
 
-On a remote rocky coast during a violent hurricane, a lighthouse keeper climbs the outside of a tall lighthouse to reach the emergency beacon at the top. The storm is brutal and the situation is urgent. Heavy rain lashes the tower, hurricane-force wind pushes hard against the keeper, and giant waves crash violently into the rocks and the base of the lighthouse. 
+On a remote rocky coast during a violent hurricane, a lighthouse keeper climbs the outside of a tall lighthouse to reach the emergency beacon at the top. The storm is brutal and the situation is urgent. Heavy rain lashes the tower, hurricane-force wind pushes hard against the keeper, and giant waves crash violently into the rocks and the base of the lighthouse.
 
-The exterior is simple and clear: wet stone walls, narrow metal ladder sections, exposed railings, a small exterior platform near the top, and the dark emergency beacon housing above.  
+The exterior is simple and clear: wet stone walls, narrow metal ladder sections, exposed railings, a small exterior platform near the top, and the dark emergency beacon housing above.
 
-Wide opening shot: the lighthouse keeper steps out onto the exterior of the lighthouse in the middle of the hurricane and immediately begins climbing upward. Rain blasts sideways, wind whips clothing, and huge waves explode against the base of the tower below.  
+Wide opening shot: the lighthouse keeper steps out onto the exterior of the lighthouse in the middle of the hurricane and immediately begins climbing upward. Rain blasts sideways, wind whips clothing, and huge waves explode against the base of the tower below.
 
-Tracking shot: the keeper climbs higher along the outside ladder and narrow metal steps while the storm intensifies. The tower shakes from the force of the sea. Lightning flashes across the sky. The keeper nearly loses grip once, slams against the wall, recovers, and keeps climbing. The beacon above is dark, making the danger feel more urgent.  
+Tracking shot: the keeper climbs higher along the outside ladder and narrow metal steps while the storm intensifies. The tower shakes from the force of the sea. Lightning flashes across the sky. The keeper nearly loses grip once, slams against the wall, recovers, and keeps climbing. The beacon above is dark, making the danger feel more urgent.
 
-Side shot: the keeper reaches the upper exterior section near the beacon platform. A massive gust hits hard. The keeper clings to the ladder, almost gets pulled away, then forces upward again. Water pours down the stone, the metal steps are slick, and another giant wave crashes into the lighthouse below, shaking the whole structure.  
+Side shot: the keeper reaches the upper exterior section near the beacon platform. A massive gust hits hard. The keeper clings to the ladder, almost gets pulled away, then forces upward again. Water pours down the stone, the metal steps are slick, and another giant wave crashes into the lighthouse below, shaking the whole structure.
 
-Final 5 seconds: the action becomes extreme. The keeper pulls onto the tiny top platform while the hurricane is at full force. The platform rattles, the railing bends slightly under pressure, and the beacon housing swings or shakes in the wind. 
+Final 5 seconds: the action becomes extreme. The keeper pulls onto the tiny top platform while the hurricane is at full force. The platform rattles, the railing bends slightly under pressure, and the beacon housing swings or shakes in the wind.
 
-The keeper struggles across the platform, grabs the beacon assembly, and fights to secure or reconnect it while lightning flashes and spray blasts upward. At the last possible second, the beacon powers back on and cuts through the storm with a powerful beam.  Final moment: the lighthouse beacon shines through the hurricane while the keeper clings to the top platform, waves smashing below and rain whipping across the frame.  
+The keeper struggles across the platform, grabs the beacon assembly, and fights to secure or reconnect it while lightning flashes and spray blasts upward. At the last possible second, the beacon powers back on and cuts through the storm with a powerful beam.  Final moment: the lighthouse beacon shines through the hurricane while the keeper clings to the top platform, waves smashing below and rain whipping across the frame.
 
 Style: hyper-realistic, cinematic, fast-paced, intense, stressful, clear readable action, strong sense of height and danger, violent hurricane, heavy rain, powerful wind, crashing waves, shaking lighthouse, dynamic but readable camera movement, no text, no logos, no cartoon style, no slow motion, no famous celebrity faces, no recognizable actors, no movie-star resemblance, no public-figure likenesses, no clear facial close-ups. Keep proportions. Keep style and features. Aspect ratio 16:9.
 
@@ -199,21 +199,21 @@ A complex mechanical-disaster sequence built around synchronized motion, failure
 #### Prompt
 
 ```text
-Prompt Studio: Orbital Collapse with Seedance 2.0 in @runwayml 
+Prompt Studio: Orbital Collapse with Seedance 2.0 in @runwayml
 
-Colossal orbital construction system, synchronized assembly breaks down, turning massive moving parts into lethal, unpredictable motion.  
-Wide shot: perfectly timed mechanical arms moving huge segments into place. 
-Micro-delay: one segment arrives early, barely noticeable at first. 
-Collision: misaligned parts slam together, throwing off timing across the system. 
-Cascade: surrounding arms react too late, desynchronizing the entire structure. 
-Hard dive: small ship enters the assembly zone as motion becomes chaotic. 
-Near-crush: two massive plates slam shut just after the ship passes through. 
-Timing gamble: pilot commits to a gap that’s already closing. 
-Whip movement: a mechanical arm swings unpredictably across the path. 
-Close scrape: ship rolls sideways, barely avoiding full impact. 
-Moving maze: structure still assembling, but incorrectly, paths shifting constantly. 
-Critical moment: a full segment drops into the escape vector. 
-Last-second slip: ship squeezes through a narrowing gap as components collide behind.  
+Colossal orbital construction system, synchronized assembly breaks down, turning massive moving parts into lethal, unpredictable motion.
+Wide shot: perfectly timed mechanical arms moving huge segments into place.
+Micro-delay: one segment arrives early, barely noticeable at first.
+Collision: misaligned parts slam together, throwing off timing across the system.
+Cascade: surrounding arms react too late, desynchronizing the entire structure.
+Hard dive: small ship enters the assembly zone as motion becomes chaotic.
+Near-crush: two massive plates slam shut just after the ship passes through.
+Timing gamble: pilot commits to a gap that’s already closing.
+Whip movement: a mechanical arm swings unpredictably across the path.
+Close scrape: ship rolls sideways, barely avoiding full impact.
+Moving maze: structure still assembling, but incorrectly, paths shifting constantly.
+Critical moment: a full segment drops into the escape vector.
+Last-second slip: ship squeezes through a narrowing gap as components collide behind.
 Rhythm collapse = danger, everything still moving with force but no coordination.
 ```
 
@@ -225,6 +225,206 @@ Rhythm collapse = danger, everything still moving with force but no coordination
 
 - **Maker:** [@AllaAisling](https://x.com/AllaAisling)
 - **Originele post:** [X / Twitter](https://x.com/AllaAisling/status/2078277108762038608)
+- **Gepubliceerd:** 2026-07-18
+- **Category:** Worldbuilding & Environmental Motion
+
+**[Gebruik deze prompt op ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+<!-- expansion-2026-07-18 -->
+
+## Meer geverifieerde communityvoorbeelden
+
+### 6. Ground-level phone crash in one continuous take
+
+A raw-phone brief that choreographs a moving-cart accident, the camera being thrown, and a final ground-level view without breaking continuity.
+
+#### Prompt
+
+```text
+Raw vertical iPhone footage, 9:16, phone propped inside a golf cart facing the passengers. Harsh daylight, autofocus hunting, motion blur, zero cinematic grading. One continuous shot.
+
+0-2s — cart speeds along bumpy path, driver laughing, hair whipping
+2-5s — driver hops out of the moving cart, passenger screams and bails too
+5-8s — guy in back lunges for the wheel, misses, cart flips sideways — phone is thrown out, frame tumbling: sky, grass, wheels
+8-12s — phone lands in grass, keeps filming from ground level: flipped cart, wheels spinning, guy crawling out, girls running back screaming
+
+SFX baked in: suspension rattle, crash, wind on the mic, grass against the lens.
+```
+
+<div align="center"><a href="https://video.twimg.com/amplify_video/2078380927214845952/vid/avc1/1280x720/BIZ2Y1fUjEyCMzCC.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2078380927214845952/img/W3jDAc_xOJhjk7uL.jpg" height="420" alt="Ground-level phone crash in one continuous take video preview"></a>
+
+**[▶ Bronvideo bekijken](https://video.twimg.com/amplify_video/2078380927214845952/vid/avc1/1280x720/BIZ2Y1fUjEyCMzCC.mp4?tag=29)**</div>
+
+#### Bronbewijs
+
+- **Maker:** [@lilidiai](https://x.com/lilidiai)
+- **Originele post:** [X / Twitter](https://x.com/lilidiai/status/2078380997540745463)
+- **Gepubliceerd:** 2026-07-18
+- **Category:** Long-Take Camera Choreography
+
+**[Gebruik deze prompt op ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+### 7. Acrobat crosses upright glass bottles
+
+A grounded festival stunt prompt built around balance, low camera placement, crowd reaction, and physically readable foot contact.
+
+#### Prompt
+
+```text
+A real outdoor village festival on a bright, clear afternoon. In the center of an open concrete courtyard, several tall transparent glass bottles are arranged upright in a carefully spaced path. A skilled adult female acrobat wears a teal traditional style performance jacket with subtle embroidered trim, fitted black trousers, white socks, and flat black cloth shoes with tiny red balancing pads beneath the soles. A large seated crowd watches closely behind her, with a simple red festival stage and old village buildings in the background.
+
+0–4 seconds: Begin with a low angle wide shot close to ground level, emphasizing the height and fragility of the glass bottles. The performer stands balanced above two bottle tops, arms extended, focused expression, gently testing her footing. Sunlight creates natural reflections through the glass.
+
+4–9 seconds: The camera smoothly tracks sideways as she carefully raises one knee, stretches her foot forward and transfers her weight onto the next bottle. Her shoe lands precisely on the tiny red support above the bottle mouth. The bottles wobble very slightly but remain upright and unbroken. The crowd leans forward with tense, believable reactions.
+
+9–13 seconds: Seamlessly move into a closer low angle tracking shot focused on her feet. She performs two more controlled steps from bottle to bottle, maintaining realistic balance and natural body movement. Show accurate foot contact, subtle fabric movement, glass reflections and physically correct shadows.
+
+13–15 seconds: She reaches the final two bottles and holds a confident balanced pose with one arm raised. The camera gently pulls back to reveal the entire bottle path as the crowd bursts into applause.
+
+Natural documentary cinematography, authentic human movement, realistic gravity and weight transfer, crisp daylight, mild handheld camera motion, detailed skin and clothing, genuine crowd ambience, shoes lightly tapping glass, soft gasps followed by applause. No fantasy effects, no impossible floating, no deformed feet, no duplicated limbs, no broken or melting bottles, no artificial slow motion blur, no captions, logos or watermark.
+```
+
+<div align="center"><a href="https://video.twimg.com/amplify_video/2078181884069339136/vid/avc1/1280x720/-U73rjSHTHiLJ70J.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2078181884069339136/img/oCXOjIz-ho549624.jpg" height="420" alt="Acrobat crosses upright glass bottles video preview"></a>
+
+**[▶ Bronvideo bekijken](https://video.twimg.com/amplify_video/2078181884069339136/vid/avc1/1280x720/-U73rjSHTHiLJ70J.mp4?tag=29)**</div>
+
+#### Bronbewijs
+
+- **Maker:** [@bmx_ai13](https://x.com/bmx_ai13)
+- **Originele post:** [X / Twitter](https://x.com/bmx_ai13/status/2078287638218547394)
+- **Gepubliceerd:** 2026-07-18
+- **Category:** Narrative Action & Performance
+
+**[Gebruik deze prompt op ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+### 8. Steel fans versus a stone hammer duel
+
+A multi-beat fantasy fight with distinct weapons, escalating impacts, environmental reactions, and a decisive ending.
+
+#### Prompt
+
+```text
+PART 1 — CLASH BEGINS (0:00–0:15)
+Cut 1 (0:00–0:05) — Fast drone-in, both students already squared off, empty hands raised, wind gusting. Quick alternating close-ups on their eyes, no dialogue yet.
+Cut 2 (0:05–0:08) — ACTION STARTS. Both sprint toward each other, shouting in sync:
+Girl: "STEEL—!"
+Boy: "—OR STONE!"
+Fast handheld push-in, dust kicking up under their feet.
+Cut 3 (0:08–0:11) — Both rip weapons from behind their bodies mid-sprint — girl's twin steel war-fans snap open (metallic RING), boy's massive stone-headed hammer swings into frame. Whip-pan cuts between them, full speed.
+Cut 4 (0:11–0:15) — Boy laughs, hammer cocked back:
+Boy: "Stone crushes steel, sweetheart!"
+Girl smirks, doesn't slow down:
+Girl: "Not today."
+Low tracking shot chasing her sprint.
+
+PART 2 — THE STRIKE (0:15–0:30)
+Cut 5 (0:15–0:18) — Boy swings the stone hammer down in a massive overhead arc, roaring with effort:
+Boy: "HAAAH!"
+Handheld shake with the swing's force.
+Cut 6 (0:18–0:22) — SLOW-MOTION STRIKE #1: Girl pivots low, both steel fan-blades scissor together and clash directly into the stone hammer-head. Sparks and rock dust erupt. Camera orbits the impact 180° in slow motion. No dialogue — just the grinding stone-on-steel shriek.
+Cut 7 (0:22–0:25) — Full speed: the stone head cracks and shatters into flying rock shards. Boy's eyes go wide:
+Boy: "WHAT—"
+Cut 8 (0:25–0:30) — Shockwave sends him flying backward, tumbling through dirt and stone fragments. Fast cuts: tumble — dust — skid to a stop. Girl stalks forward, fans still crossed, unshaken.
+
+PART 3 — FINISH (0:30–0:45)
+Cut 9 (0:30–0:33) — Boy pushes up on one elbow, dazed, blazer torn, dust on his face:
+Boy: (coughing, defiant) "...Not bad."
+Cut 10 (0:33–0:36) — Girl closes the distance fast, plants one fan-blade in the dirt beside his head — SLOW-MOTION STRIKE #2: blade sinks into the earth, wind blast throws his hair back, dust ring bursts outward around the impact point.
+Cut 11 (0:36–0:40) — Full speed. Girl straightens, fans crossed over her shoulders, hair whipping, staring down at him with total control.
+Boy: (smirking despite himself) "...Guess I lost."
+Cut 12 (0:40–0:45) — Low-angle hero shot, wind roaring, girl's eyes locked on camera:
+Girl: "K.O."
+Hard cut to black on final syllable.
+```
+
+<div align="center"><a href="https://video.twimg.com/amplify_video/2078286733549223936/vid/avc1/1920x1080/ze1RTiCUg41w4hH1.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2078286733549223936/img/YXWZzTQzm3w2vq0K.jpg" height="420" alt="Steel fans versus a stone hammer duel video preview"></a>
+
+**[▶ Bronvideo bekijken](https://video.twimg.com/amplify_video/2078286733549223936/vid/avc1/1920x1080/ze1RTiCUg41w4hH1.mp4?tag=29)**</div>
+
+#### Bronbewijs
+
+- **Maker:** [@ShamiWeb3](https://x.com/ShamiWeb3)
+- **Originele post:** [X / Twitter](https://x.com/ShamiWeb3/status/2078286878730522911)
+- **Gepubliceerd:** 2026-07-18
+- **Category:** Narrative Action & Performance
+
+**[Gebruik deze prompt op ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+### 9. Theatrical pole-sport performance under a follow spot
+
+A translated production brief that coordinates strength, spin timing, skirt inertia, spotlight continuity, and controlled camera orbit.
+
+#### Prompt
+
+```text
+Style: premium theatrical pole-sport performance film, cinematic finish, dark stage atmosphere with a cold-white follow spot, flowing skirt motion, alternating real-time and slow motion, vertical 9:16.
+
+Duration: 15 seconds.
+
+Setting: a refined theater with a circular center stage, a mirrored pole extending into the overhead rig, a warm perimeter light strip, a softly blurred audience in darkness, light stage haze, and one cold-white spotlight on the pole.
+
+Character: preserve the reference character and wardrobe exactly throughout.
+
+00:00-00:03 — Opening entrance. Start with a low wide shot as the performer steps into the light and grips the pole; the camera makes a restrained push-in.
+00:03-00:06 — Strength transition. Orbit at waist height as she lifts into a controlled hold; show believable grip, shoulder tension, and fabric inertia.
+00:06-00:10 — Spin sequence. Alternate real speed and elegant slow motion while the skirt traces a readable circular path; keep anatomy and pole contact stable.
+00:10-00:13 — Inversion and descent. Use a three-quarter low angle, then follow the controlled descent without cutting away from the body mechanics.
+00:13-00:15 — Final pose. Settle into a strong silhouette under the spotlight as haze and skirt motion gradually come to rest.
+
+Preserve face, costume, body proportions, stage geometry, pole position, and light direction. Natural stage ambience and restrained audience response.
+```
+
+<div align="center"><a href="https://video.twimg.com/amplify_video/2078394422169841664/vid/avc1/720x1280/lX-rcaTHPB_vjW7N.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2078394422169841664/img/aaV0eSLZBLJ0oXR-.jpg" height="420" alt="Theatrical pole-sport performance under a follow spot video preview"></a>
+
+**[▶ Bronvideo bekijken](https://video.twimg.com/amplify_video/2078394422169841664/vid/avc1/720x1280/lX-rcaTHPB_vjW7N.mp4?tag=29)**</div>
+
+#### Bronbewijs
+
+- **Maker:** [@johnAGI168](https://x.com/johnAGI168)
+- **Originele post:** [X / Twitter](https://x.com/johnAGI168/status/2078394549773258835)
+- **Gepubliceerd:** 2026-07-18
+- **Category:** Commercial Storyboards
+
+**[Gebruik deze prompt op ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+### 10. Backlit Japanese-film meadow opening
+
+An English translation of a timestamped Chinese prompt using macro detail, aerial descent, low orbit, lens flare, and a Japanese voice-over.
+
+#### Prompt
+
+```text
+Cinematic film sequence featuring a 22-year-old East Asian woman with long black wavy hair, an open white shirt over a black camisole, light denim shorts, and white sneakers. Clear bright noon sky, strong warm backlight producing luminous rim light around her hair and silhouette. ARRI Alexa 65, Cooke anamorphic prime lens at T1.5, shallow depth of field, subtle horizontal blue anamorphic flare, warm teal-and-orange grade, soft 35mm grain, strong highlight bloom, 16:9.
+
+00:00-00:02 — Extreme macro close-up of her hands nervously working the hem of the white shirt. Very shallow depth of field; fixed camera with a subtle push-in.
+00:02-00:04 — Smooth tilt and zoom from her hands to her face. Rack focus from fabric to eyes as she raises her gaze.
+00:04-00:06 — Wide aerial establishing descent. She stands alone in a broad green meadow under a dominant blue sky; tall grass and clothing move in the breeze.
+00:06-00:08 — Low circular tracking shot near the grass as she adjusts the collar and shoulders of the white shirt.
+00:08-00:10 — Complete the orbit to a frontal push-in. She turns toward camera with a calm, confident smile as the sun blooms over her shoulder.
+00:10-00:12 — Heroic low-angle wide shot against a clean deep-blue sky; the shirt moves in the wind.
+00:12-00:15 — Slow low-to-high push toward her face. She looks down toward camera, then to the horizon; finish on a heroic frame and fade slowly.
+
+Calm professional camera movement, photoreal skin, consistent identity and wardrobe. Japanese voice-over in a soft female voice: 「今日は、いい天気だね。」
+```
+
+<div align="center"><a href="https://video.twimg.com/amplify_video/2078331748916858880/vid/avc1/3840x2160/lGkpsHcor9wnl3Ni.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2078331748916858880/img/7yNe6XAkM99wMu3M.jpg" height="420" alt="Backlit Japanese-film meadow opening video preview"></a>
+
+**[▶ Bronvideo bekijken](https://video.twimg.com/amplify_video/2078331748916858880/vid/avc1/3840x2160/lGkpsHcor9wnl3Ni.mp4?tag=29)**</div>
+
+#### Bronbewijs
+
+- **Maker:** [@Cia0_exe](https://x.com/Cia0_exe)
+- **Originele post:** [X / Twitter](https://x.com/Cia0_exe/status/2078331917058158767)
 - **Gepubliceerd:** 2026-07-18
 - **Category:** Worldbuilding & Environmental Motion
 
