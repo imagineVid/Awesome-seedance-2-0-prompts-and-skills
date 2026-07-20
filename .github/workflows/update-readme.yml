@@ -1,3 +1,7 @@
+# [INPUT]: Depends on the repository verification command and Node 24-compatible official GitHub Actions.
+# [OUTPUT]: Verifies Seedance 2.0 collection data and generated locale surfaces on pushes and pull requests.
+# [POS]: GitHub quality gate for the Seedance 2.0 prompt collection.
+# [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
 name: Verify collection
 
 on:
@@ -10,8 +14,8 @@ jobs:
   verify:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v6
         with:
           node-version: 24
       - run: npm run verify
