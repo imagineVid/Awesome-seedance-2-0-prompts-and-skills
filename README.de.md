@@ -47,9 +47,9 @@ Seedance 2.0 ist ein Modell für multimodale Videogenerierung, referenzgestützt
 
 ## Geprüfte Community-Beispiele
 
-| Sammlungsstatus | 10 geprüfte Fälle |
+| Sammlungsstatus | 12 geprüfte Fälle |
 |---|---:|
-| Zuletzt erzeugt | 2026-07-18 |
+| Zuletzt erzeugt | 2026-07-19 |
 
 ### 1. Crimson roots erupt across a barren fashion landscape
 
@@ -70,7 +70,7 @@ A cinematic, high-fashion close-up and medium shot of an elegant East Asian woma
 - **Urheber:** [@AvelyrahnAI](https://x.com/AvelyrahnAI)
 - **Originalbeitrag:** [X / Twitter](https://x.com/AvelyrahnAI/status/2078353296654557318)
 - **Veröffentlicht:** 2026-07-18
-- **Category:** Multimodal Reference Direction
+- **Kategorie:** Multimodal Reference Direction
 
 **[Diesen Prompt auf ImagineVid verwenden](https://imaginevid.io/seedance-2-0)**
 
@@ -115,7 +115,7 @@ Final frame: Family enjoying tea with biscuits together ❤️
 - **Urheber:** [@Itswsm105f](https://x.com/Itswsm105f)
 - **Originalbeitrag:** [X / Twitter](https://x.com/Itswsm105f/status/2078345254541967498)
 - **Veröffentlicht:** 2026-07-18
-- **Category:** Long-Take Camera Choreography
+- **Kategorie:** Long-Take Camera Choreography
 
 **[Diesen Prompt auf ImagineVid verwenden](https://imaginevid.io/seedance-2-0)**
 
@@ -140,7 +140,7 @@ Cinematic 3D animation, futuristic cyberpunk city at night with neon billboards 
 - **Urheber:** [@AvelyrahnAI](https://x.com/AvelyrahnAI)
 - **Originalbeitrag:** [X / Twitter](https://x.com/AvelyrahnAI/status/2078327970012500268)
 - **Veröffentlicht:** 2026-07-18
-- **Category:** Narrative Action & Performance
+- **Kategorie:** Narrative Action & Performance
 
 **[Diesen Prompt auf ImagineVid verwenden](https://imaginevid.io/seedance-2-0)**
 
@@ -186,7 +186,7 @@ Try it, change it, make it your own.
 - **Urheber:** [@DeCat2025](https://x.com/DeCat2025)
 - **Originalbeitrag:** [X / Twitter](https://x.com/DeCat2025/status/2078284800083857734)
 - **Veröffentlicht:** 2026-07-18
-- **Category:** Commercial Storyboards
+- **Kategorie:** Commercial Storyboards
 
 **[Diesen Prompt auf ImagineVid verwenden](https://imaginevid.io/seedance-2-0)**
 
@@ -226,7 +226,7 @@ Rhythm collapse = danger, everything still moving with force but no coordination
 - **Urheber:** [@AllaAisling](https://x.com/AllaAisling)
 - **Originalbeitrag:** [X / Twitter](https://x.com/AllaAisling/status/2078277108762038608)
 - **Veröffentlicht:** 2026-07-18
-- **Category:** Worldbuilding & Environmental Motion
+- **Kategorie:** Worldbuilding & Environmental Motion
 
 **[Diesen Prompt auf ImagineVid verwenden](https://imaginevid.io/seedance-2-0)**
 
@@ -262,7 +262,7 @@ SFX baked in: suspension rattle, crash, wind on the mic, grass against the lens.
 - **Urheber:** [@lilidiai](https://x.com/lilidiai)
 - **Originalbeitrag:** [X / Twitter](https://x.com/lilidiai/status/2078380997540745463)
 - **Veröffentlicht:** 2026-07-18
-- **Category:** Long-Take Camera Choreography
+- **Kategorie:** Long-Take Camera Choreography
 
 **[Diesen Prompt auf ImagineVid verwenden](https://imaginevid.io/seedance-2-0)**
 
@@ -297,7 +297,7 @@ Natural documentary cinematography, authentic human movement, realistic gravity 
 - **Urheber:** [@bmx_ai13](https://x.com/bmx_ai13)
 - **Originalbeitrag:** [X / Twitter](https://x.com/bmx_ai13/status/2078287638218547394)
 - **Veröffentlicht:** 2026-07-18
-- **Category:** Narrative Action & Performance
+- **Kategorie:** Narrative Action & Performance
 
 **[Diesen Prompt auf ImagineVid verwenden](https://imaginevid.io/seedance-2-0)**
 
@@ -352,7 +352,7 @@ Hard cut to black on final syllable.
 - **Urheber:** [@ShamiWeb3](https://x.com/ShamiWeb3)
 - **Originalbeitrag:** [X / Twitter](https://x.com/ShamiWeb3/status/2078286878730522911)
 - **Veröffentlicht:** 2026-07-18
-- **Category:** Narrative Action & Performance
+- **Kategorie:** Narrative Action & Performance
 
 **[Diesen Prompt auf ImagineVid verwenden](https://imaginevid.io/seedance-2-0)**
 
@@ -391,7 +391,7 @@ Preserve face, costume, body proportions, stage geometry, pole position, and lig
 - **Urheber:** [@johnAGI168](https://x.com/johnAGI168)
 - **Originalbeitrag:** [X / Twitter](https://x.com/johnAGI168/status/2078394549773258835)
 - **Veröffentlicht:** 2026-07-18
-- **Category:** Commercial Storyboards
+- **Kategorie:** Commercial Storyboards
 
 **[Diesen Prompt auf ImagineVid verwenden](https://imaginevid.io/seedance-2-0)**
 
@@ -426,7 +426,69 @@ Calm professional camera movement, photoreal skin, consistent identity and wardr
 - **Urheber:** [@Cia0_exe](https://x.com/Cia0_exe)
 - **Originalbeitrag:** [X / Twitter](https://x.com/Cia0_exe/status/2078331917058158767)
 - **Veröffentlicht:** 2026-07-18
-- **Category:** Worldbuilding & Environmental Motion
+- **Kategorie:** Worldbuilding & Environmental Motion
+
+**[Diesen Prompt auf ImagineVid verwenden](https://imaginevid.io/seedance-2-0)**
+
+---
+
+### 11. Flood-water panic in coarse 35mm slow motion
+
+A water-level handheld crowd shot coordinating facial stability, suspended spray, distressed institutional color, and persistent analog grain.
+
+#### Prompt
+
+```text
+Slow-motion handheld close-up, 16:9. Shaky organic handheld shot shoving in close on an older grey-haired man in a soaked white shirt and tie, chest-deep in churning green-grey flood water clutching a glass bottle, mouth open mid-shout — while all around him a dense crowd churns: a woman shoves past his shoulder, two men wrestle a floating chair behind him, someone falls backward into the water beside him sending up a slow sheet of spray, more panicking bodies wade and thrash in the background. In slow motion water explodes across the whole frame, droplets suspended everywhere. Dynamic jostling handheld movement at water level in the thick of the crowd. Sickly institutional palette — seafoam green, cream, muted teal, cold reflective water. All faces anatomically correct, stable, realistic, genuine emotion, no warping. Heavy coarse analog 35mm film grain baked into every frame, thick and consistent, grain crawling over highlights and shadows, like a scanned celluloid film print, never clean, never digital-looking. Flat overhead fluorescent light, dramatic slow-motion intensity, cinematic photorealistic, ultra-detailed.
+```
+
+<div align="center"><a href="https://video.twimg.com/amplify_video/2078454191194869760/vid/avc1/3840x2160/CTId2xQUs9xoTNBw.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2078454191194869760/img/dupu9XmqO-VVWjl6.jpg" height="420" alt="Flood-water panic in coarse 35mm slow motion video preview"></a>
+
+**[▶ Quellvideo ansehen](https://video.twimg.com/amplify_video/2078454191194869760/vid/avc1/3840x2160/CTId2xQUs9xoTNBw.mp4?tag=29)**</div>
+
+#### Quellennachweis
+
+- **Urheber:** [@gkxspace](https://x.com/gkxspace)
+- **Originalbeitrag:** [X / Twitter](https://x.com/gkxspace/status/2078454884861374485)
+- **Veröffentlicht:** 2026-07-18
+- **Kategorie:** Narrative Action & Performance
+
+**[Diesen Prompt auf ImagineVid verwenden](https://imaginevid.io/seedance-2-0)**
+
+---
+
+### 12. Floating cold bottle on a heat-struck city street
+
+A cinematic object-reveal sequence with contrasting warm and cool light, restrained supernatural motion, and a complete native-audio sound plan.
+
+#### Prompt
+
+```text
+[VISUAL] Shot on ARRI Alexa 35 with anamorphic lenses, cinematic film look, rich color science, organic highlight rolloff, subtle halation, fine film grain, practical in-camera lighting only, real haze, atmospheric particles, natural lens flares, no CGI.
+
+Continuing on the empty NYC street between tall buildings, under a harsh midday sun with heat haze rising from the asphalt. The young Latino man walks slowly, exhausted by the heat, handheld camera following from behind at hip height with a slight Dutch angle.
+
+He suddenly stops, noticing something ahead. The camera arcs around into a low-angle medium close-up as he stares in confusion. About six meters in front of him, a cold aluminum soda bottle floats at chest height, glowing with a soft white light. Faint cold mist curls from its surface as it gently levitates and slowly rotates, casting a subtle pool of white light onto the asphalt.
+
+The camera pushes past his shoulder to reveal the bottle, then tracks forward as he cautiously walks toward it. The bottle’s cool glow softly lights one side of his face while the warm sunlight lights the other. He stops a couple of meters away and slowly raises his hand.
+
+The bottle immediately stops drifting and smoothly descends into his open palm. As it touches his hand, the glow fades away, leaving an ordinary cold bottle covered in condensation. The camera tilts up to his face as he looks at it with a small, relieved smile.
+
+Slow-motion emphasizes the reveal, the approach, and the bottle descending into his hand before returning to real time.
+
+[AUDIO] No music. SFX only. Distant city ambience, warm wind, footsteps, breathing, a faint harmonic hum from the floating bottle, subtle hiss of cold mist, a gentle whoosh as it descends, a soft metallic touch when it lands in his hand, and silence as the glow disappears.
+```
+
+<div align="center"><a href="https://video.twimg.com/amplify_video/2078162367406342144/vid/avc1/1920x1080/SLUd5Hled0XNuh-w.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2078162367406342144/img/diLq2A6o_HizCZch.jpg" height="420" alt="Floating cold bottle on a heat-struck city street video preview"></a>
+
+**[▶ Quellvideo ansehen](https://video.twimg.com/amplify_video/2078162367406342144/vid/avc1/1920x1080/SLUd5Hled0XNuh-w.mp4?tag=29)**</div>
+
+#### Quellennachweis
+
+- **Urheber:** [@maarcoofdezz](https://x.com/maarcoofdezz)
+- **Originalbeitrag:** [X / Twitter](https://x.com/maarcoofdezz/status/2078162454744346803)
+- **Veröffentlicht:** 2026-07-17
+- **Kategorie:** Worldbuilding & Environmental Motion
 
 **[Diesen Prompt auf ImagineVid verwenden](https://imaginevid.io/seedance-2-0)**
 

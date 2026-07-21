@@ -47,9 +47,9 @@ Seedance 2.0 is ByteDance Seed's unified multimodal audio-video model for genera
 
 ## Verified community cases
 
-| Collection status | 10 verified cases |
+| Collection status | 12 verified cases |
 |---|---:|
-| Last generated | 2026-07-18 |
+| Last generated | 2026-07-19 |
 
 ### 1. Crimson roots erupt across a barren fashion landscape
 
@@ -426,6 +426,68 @@ Calm professional camera movement, photoreal skin, consistent identity and wardr
 - **Creator:** [@Cia0_exe](https://x.com/Cia0_exe)
 - **Canonical post:** [X / Twitter](https://x.com/Cia0_exe/status/2078331917058158767)
 - **Published:** 2026-07-18
+- **Category:** Worldbuilding & Environmental Motion
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+### 11. Flood-water panic in coarse 35mm slow motion
+
+A water-level handheld crowd shot coordinating facial stability, suspended spray, distressed institutional color, and persistent analog grain.
+
+#### Prompt
+
+```text
+Slow-motion handheld close-up, 16:9. Shaky organic handheld shot shoving in close on an older grey-haired man in a soaked white shirt and tie, chest-deep in churning green-grey flood water clutching a glass bottle, mouth open mid-shout — while all around him a dense crowd churns: a woman shoves past his shoulder, two men wrestle a floating chair behind him, someone falls backward into the water beside him sending up a slow sheet of spray, more panicking bodies wade and thrash in the background. In slow motion water explodes across the whole frame, droplets suspended everywhere. Dynamic jostling handheld movement at water level in the thick of the crowd. Sickly institutional palette — seafoam green, cream, muted teal, cold reflective water. All faces anatomically correct, stable, realistic, genuine emotion, no warping. Heavy coarse analog 35mm film grain baked into every frame, thick and consistent, grain crawling over highlights and shadows, like a scanned celluloid film print, never clean, never digital-looking. Flat overhead fluorescent light, dramatic slow-motion intensity, cinematic photorealistic, ultra-detailed.
+```
+
+<div align="center"><a href="https://video.twimg.com/amplify_video/2078454191194869760/vid/avc1/3840x2160/CTId2xQUs9xoTNBw.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2078454191194869760/img/dupu9XmqO-VVWjl6.jpg" height="420" alt="Flood-water panic in coarse 35mm slow motion video preview"></a>
+
+**[▶ Watch the source video](https://video.twimg.com/amplify_video/2078454191194869760/vid/avc1/3840x2160/CTId2xQUs9xoTNBw.mp4?tag=29)**</div>
+
+#### Source evidence
+
+- **Creator:** [@gkxspace](https://x.com/gkxspace)
+- **Canonical post:** [X / Twitter](https://x.com/gkxspace/status/2078454884861374485)
+- **Published:** 2026-07-18
+- **Category:** Narrative Action & Performance
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/seedance-2-0)**
+
+---
+
+### 12. Floating cold bottle on a heat-struck city street
+
+A cinematic object-reveal sequence with contrasting warm and cool light, restrained supernatural motion, and a complete native-audio sound plan.
+
+#### Prompt
+
+```text
+[VISUAL] Shot on ARRI Alexa 35 with anamorphic lenses, cinematic film look, rich color science, organic highlight rolloff, subtle halation, fine film grain, practical in-camera lighting only, real haze, atmospheric particles, natural lens flares, no CGI.
+
+Continuing on the empty NYC street between tall buildings, under a harsh midday sun with heat haze rising from the asphalt. The young Latino man walks slowly, exhausted by the heat, handheld camera following from behind at hip height with a slight Dutch angle.
+
+He suddenly stops, noticing something ahead. The camera arcs around into a low-angle medium close-up as he stares in confusion. About six meters in front of him, a cold aluminum soda bottle floats at chest height, glowing with a soft white light. Faint cold mist curls from its surface as it gently levitates and slowly rotates, casting a subtle pool of white light onto the asphalt.
+
+The camera pushes past his shoulder to reveal the bottle, then tracks forward as he cautiously walks toward it. The bottle’s cool glow softly lights one side of his face while the warm sunlight lights the other. He stops a couple of meters away and slowly raises his hand.
+
+The bottle immediately stops drifting and smoothly descends into his open palm. As it touches his hand, the glow fades away, leaving an ordinary cold bottle covered in condensation. The camera tilts up to his face as he looks at it with a small, relieved smile.
+
+Slow-motion emphasizes the reveal, the approach, and the bottle descending into his hand before returning to real time.
+
+[AUDIO] No music. SFX only. Distant city ambience, warm wind, footsteps, breathing, a faint harmonic hum from the floating bottle, subtle hiss of cold mist, a gentle whoosh as it descends, a soft metallic touch when it lands in his hand, and silence as the glow disappears.
+```
+
+<div align="center"><a href="https://video.twimg.com/amplify_video/2078162367406342144/vid/avc1/1920x1080/SLUd5Hled0XNuh-w.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2078162367406342144/img/diLq2A6o_HizCZch.jpg" height="420" alt="Floating cold bottle on a heat-struck city street video preview"></a>
+
+**[▶ Watch the source video](https://video.twimg.com/amplify_video/2078162367406342144/vid/avc1/1920x1080/SLUd5Hled0XNuh-w.mp4?tag=29)**</div>
+
+#### Source evidence
+
+- **Creator:** [@maarcoofdezz](https://x.com/maarcoofdezz)
+- **Canonical post:** [X / Twitter](https://x.com/maarcoofdezz/status/2078162454744346803)
+- **Published:** 2026-07-17
 - **Category:** Worldbuilding & Environmental Motion
 
 **[Use this prompt on ImagineVid](https://imaginevid.io/seedance-2-0)**
