@@ -534,5 +534,52 @@
         }
       ]
     }
+  },
+  {
+    "id": 13,
+    "model": "Seedance 2.0",
+    "title": "The Sunkeeper and the celestial engine",
+    "description": "A fifteen-second fantasy trailer with five timed scenes, large-scale mechanical worldbuilding, expressive performance, native audio, and an exact two-line title-card finish.",
+    "content": "Create a 15-second cinematic fantasy trailer titled “The Sunkeeper.” Scene 1, 0–3s: above a sea of clouds at sunrise, reveal an immense ancient brass machine surrounding the Sun. Thousands of rotating rings, gears, and celestial mechanisms move in perfect synchronization as a lone keeper in weathered robes crosses a narrow suspended bridge. Slow crane forward; deep orchestral pulse, wind, and distant metal resonance. Scene 2, 3–6s: medium close-up as the keeper reaches a control platform and places one hand on a glowing brass lever. Warm sunlight shapes a determined face; subtle breathing and eye movement. The mechanism accelerates and the score rises. Scene 3, 6–10s: wide orbit as the keeper pulls the lever. Rings lock into alignment, solar light surges through engraved channels, clouds roll below, and the engine roars with enormous mechanical force. Scene 4, 10–14.2s: a violent shudder; the engine stops. The Sun rapidly dims, warm color drains from the sky, and the camera pulls back to show the keeper alone above a world swallowed by night. Scene 5, 14.2–15s: cut to black with one orchestral impact. Exact gold serif title: “Every sunrise has a keeper.” Then: “Tomorrow may never come.” Tiny embers fade with the final choir note. Feature-film pacing, smooth transitions, physically plausible brass motion, volumetric clouds, restrained magic, believable acting, no extra text, glitches, duplicates, or distorted anatomy.",
+    "sourceLink": "https://x.com/thisismariaa25/status/2079914385284161706",
+    "sourcePublishedAt": "2026-07-22T13:00:07.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2079914084288405504/img/gtXtVElZjMBdENTQ.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2079914084288405504/vid/avc1/1280x720/j--apfxS2Hm_JnCx.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2079914084288405504/img/gtXtVElZjMBdENTQ.jpg"
+    },
+    "author": {
+      "name": "Maria",
+      "link": "https://x.com/thisismariaa25"
+    },
+    "language": "en",
+    "featured": true,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2079914385284161706",
+      "model_evidence": "seedance-2-0",
+      "collected_at": "2026-07-22",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 1,
+      "replyCount": 14,
+      "likeCount": 59,
+      "quoteCount": 0,
+      "viewCount": 405,
+      "bookmarkCount": 0
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 103,
+          "title": "Narrative Action & Performance",
+          "slug": "narrative-action-performance"
+        }
+      ]
+    },
+    "sort": 13
   }
 ]
